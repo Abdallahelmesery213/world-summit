@@ -1255,6 +1255,17 @@ footer form .btn{
     .nav2 ul li, .nav3 ul li{
         width: 40%;
     }
+    header .nav1 .btn-group{
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 15px;
+    }
+    header .nav1 {
+        padding: 20px;
+        text-align: center;
+    }
     /* header .right-part .nav1 button{
         font-size: 12px;
     } */
