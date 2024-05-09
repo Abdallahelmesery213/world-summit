@@ -1,5 +1,6 @@
 :root{
     --maincolor: #744d24;
+    --south-america-color: #662d91;
 }
 @font-face{
     font-family: bruumBoldFont;
@@ -1015,6 +1016,26 @@ footer form .btn{
     padding: 5px;
 }
 /* end photo-gallery screen */
+/* start south america  */
+.south-america .counter-top button.btn{
+    background-color: var(--south-america-color);
+}
+.south-america .counter h2{
+    color: var(--south-america-color);
+}
+.south-america .cards .card .card-footerr .feedback{
+    background-color: var(--south-america-color);
+}
+.south-america .banner-1 {
+    background-image: url(./../images/South_img_2-04.jpg);
+}
+.south-america .banner-2 {
+    background-image: url(./../images/South_img_3-04.jpg);
+}
+.south-america .banner-3 {
+    background-image: url(./../images/South_img_4-04.jpg);
+}
+/* end south america  */
 
 /* start media query */
 @media only screen and (min-width: 1400px) {
