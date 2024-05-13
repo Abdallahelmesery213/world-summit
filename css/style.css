@@ -1036,6 +1036,17 @@ footer form .btn{
     background-image: url(./../images/South_img_4-04.jpg);
 }
 /* end south america  */
+/* start europe screen */
+.europe-screen .banner-1 {
+    background-image: url(./../images/europe_img2-04.jpg);
+}
+.europe-screen .banner-2 {
+    background-image: url(./../images/europe_img3-04.jpg);
+}
+.europe-screen .banner-3 {
+    background-image: url(./../images/europe_img4-04.jpg);
+}
+/* end europe screen */
 
 /* start media query */
 @media only screen and (min-width: 1400px) {
