@@ -152,7 +152,7 @@ header .right-part .nav2 a{
 }
 header .right-part .nav3{
     background-color: #fff;
-    min-height: 50px;
+    min-height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
