@@ -426,7 +426,7 @@ header hr {
   font-size: 38px;
   margin-bottom:20px;
 }
-.bnr p{
+.bnr p, .bnr p a{
   color: #807f7f;
 }
 .get{

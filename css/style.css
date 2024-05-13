@@ -420,7 +420,8 @@ header .nav3 ul li:not(:last-child)::after {
     line-height: 40px;
     margin-bottom: 20px;
 }
-.banner .banner-text h6{
+.banner .banner-text h6,
+.banner .banner-text h6 a{
     color: #898989;
 }
 .banner.bannerRight .banner-text .line{
