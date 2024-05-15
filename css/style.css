@@ -1047,6 +1047,12 @@ footer form .btn{
 .europe-screen .banner-3 {
     background-image: url(./../images/europe_img4-04.jpg);
 }
+.europe-screen .cards .card .card-footerr .feedback{
+    background-color: #009eda;
+}
+.europe-screen .cards .card .card-body .like i {
+    color: #009eda;
+}
 /* end europe screen */
 /* start north-america screen */
 .north-america .banner-1 {

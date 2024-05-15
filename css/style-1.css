@@ -522,3 +522,28 @@ header hr {
 .links a{
   color: #000;
 }
+.membership .membership-box{
+  background-color: #f7f8fa;
+}
+.membership .member-header{
+  background: #dedfe1;
+  padding: 10px 15px;
+}
+.membership .member-header h3{
+  font-family: BruumFY-Regular;
+  color: #000;
+  font-size: 22px;
+  margin-top: 5px;
+}
+.membership .member-header h3 i{
+  margin-right: 10px;
+  font-size: 25px;
+}
+.membership-box label{
+  margin-bottom: 7px;
+}
+.membership-box input , .membership-box select{
+  height: 35px;
+  border-radius: 9px;
+  border: 1px solid #ccc;
+}
